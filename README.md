@@ -4,4 +4,4 @@ Nama : Dipta Laksmana Baswara<br>
 NPM : 1806235832<br>
 Kelas : B
 
-- [Log Week 01](Week_01/lb01_1806235832_B_DiptaLaksmana.md)
+- [Log Week 01](week-1/1806235832_Dipta_week_1.md)
