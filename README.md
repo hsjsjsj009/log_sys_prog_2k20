@@ -13,3 +13,4 @@ Kelas : B
 - [Log Week 07](week-7/1806235832_Dipta_week_7.md)
 - [Log Week 10](week-10/1806235832_Dipta_week_10.md)
 - [Log Week 11](week-11/1806235832_Dipta_week_11.md)
+- [Log Week 12](week-12/1806235832_Dipta_week_12.md)
