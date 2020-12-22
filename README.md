@@ -15,3 +15,4 @@ Kelas : B
 - [Log Week 11](week-11/1806235832_Dipta_week_11.md)
 - [Log Week 12](week-12/1806235832_Dipta_week_12.md)
 - [Log Week 13](week-13/1806235832_Dipta_week_13.md)
+- [Log Week 14](week-14/1806235832_Dipta_week_14.md)
